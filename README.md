@@ -1,2 +1,2 @@
-# system-design
-Master High-Level System Design from beginner to advanced with scalability, databases, caching, APIs, load balancing, messaging, microservices, and real-world interview problems.
+# High-Level System Design (HLD): Beginner to Advanced
+Learn High-Level System Design step by step through scalability fundamentals, database design, caching, load balancing, API gateways, message queues, microservices, distributed systems, cloud architecture, real-world case studies, and system design interview questions..
